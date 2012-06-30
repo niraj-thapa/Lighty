@@ -6,7 +6,7 @@ Lighty is a light theme for Sublime Text 2.
 
 Copy Lighty.tmTheme to your 'Color Scheme - Default' folder.
 
-![Lighty screenshot](https://raw.github.com/itsgg/toast/master/lighty.png "Lighty screenshot")
+![Lighty screenshot](https://raw.github.com/itsgg/Lighty/master/lighty.png "Lighty screenshot")
 
 ## License
 
